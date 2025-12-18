@@ -1,0 +1,45 @@
+[1mdiff --git a/CONTRIBUCIONS.md b/CONTRIBUCIONS.md[m
+[1mdeleted file mode 100644[m
+[1mindex d3a025f..0000000[m
+[1m--- a/CONTRIBUCIONS.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,17 +0,0 @@[m
+[31m-# Contribucions[m
+[31m-[m
+[31m-## Alumne B - [El teu nom][m
+[31m-[m
+[31m-### Revisions realitzades[m
+[31m-He revisat els apunts i he afegit:[m
+[31m-- Exemples pràctics a tema1-linux.txt[m
+[31m-- Més detalls sobre permisos a tema3-processos.txt[m
+[31m-[m
+[31m-### Propostes de millora[m
+[31m-- Afegir més exemples pràctics[m
+[31m-- Crear un índex al README[m
+[31m-- Afegir referències bibliogràfiques[m
+[31m-- Incloure captures de pantalla[m
+[31m-[m
+[31m-### Data de la contribució[m
+[31m-[15/12/2025 10:45][m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 2798617..5113915 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,11 @@[m
+ # Els meus apunts de Sistemes Operatius - Pau Rico[m
+[32m+[m[32m## Descripció[m[41m [m
+[32m+[m[32mAquest repositori conté l’essència dels sistemes Operatius de 1r ASIX[m
+[32m+[m
+[32m+[m[32m## Contingut[m[41m [m
+[32m+[m[32m- Tema 1: Introducció a Linux[m[41m [m
+[32m+[m[32m- Tema 2: Comandes bàsiques[m[41m [m
+[32m+[m
+[32m+[m[32m## Autor [El teu nom][m[41m [m
+[32m+[m[32mCurs: 1r ASIX[m[41m [m
+[32m+[m[32mData: [Data actual][m
+[1mdiff --git a/projecte-apunts-so b/projecte-apunts-so[m
+[1m--- a/projecte-apunts-so[m
+[1m+++ b/projecte-apunts-so[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 5355ee3b4b156f8b7b3e79a2fbad79034336af43[m
+[32m+[m[32mSubproject commit 5355ee3b4b156f8b7b3e79a2fbad79034336af43-dirty[m
